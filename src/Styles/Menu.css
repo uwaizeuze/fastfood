@@ -1,0 +1,24 @@
+.container__service {
+  height: 180vh;
+  background-image: linear-gradient(to right, #faf0e6);
+  margin-bottom: 800px;
+  margin-top: -33px;
+}
+.service-title {
+  font-size: 40px;
+  font-weight: 200;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 30px;
+  color: #000000bd;
+  margin-bottom: 50px;
+  padding-top: 20px;
+}
+.service__box {
+  width: 1100px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}

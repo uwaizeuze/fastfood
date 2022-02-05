@@ -1,0 +1,10 @@
+.contact__container {
+  height: 90vh;
+  background-color: rgba(238, 238, 238, 0.582);
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -630px;
+}

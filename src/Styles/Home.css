@@ -1,0 +1,28 @@
+.section__container {
+  height: 100vh;
+  background-image: url(../images/pizza.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section__box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.section__box__title {
+  font-size: 60px;
+  font-weight: 300;
+  text-transform: capitalize;
+  letter-spacing: 10px;
+  color: #1565c0;
+}
+.section__box__description {
+  text-transform: capitalize;
+  font-size: 40px;
+  font-weight: 300;
+  letter-spacing: 2.2px;
+  color: blanchedalmond;
+}
